@@ -80,7 +80,7 @@
 
     jQuery(window).on('load', function() {
         // animation-activation
-        new WOW().init();
+//         new WOW().init();
         // portfolio-preloader-activation
         $('.portopie-preloader').fadeOut(500);
     });
